@@ -2,6 +2,7 @@ import 'package:flutter/material.dart.';
 
 
 class SplashView extends StatelessWidget {
+  // ssss
 
   static const String routeName = "splash";
 
