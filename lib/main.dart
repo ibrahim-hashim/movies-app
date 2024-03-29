@@ -5,7 +5,7 @@ import 'package:movies_app/splash/pages/splash_view.dart';
 void main() {
   runApp(const MyApp());
 }
-
+// test tow
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
